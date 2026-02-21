@@ -134,3 +134,4 @@ export PATH="$BUN_INSTALL/bin:$PATH"
 
 eval "$(starship init bash)"
 alias claude="/home/josh/.claude/local/claude"
+. "$HOME/.cargo/env"
